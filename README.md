@@ -8,14 +8,9 @@ The challenge can be found [here](https://www.kaggle.com/c/titanic#tutorials).
 ### Prerequisites
 
 ## Getting Started
-Install all files from the requirements.txt:
+Run the Jupyter Notebook command and navigate the UI to the 'Kaggle Titanic Challenge.ipynb' file.
 ```
-pip install -r requirements.txt
-```
-To enter the virtual environment direct to the bin folder and run the source command:
-```
-cd ~/bin/
-source activate
+jupyter notebook
 ```
 
 ## Built With
